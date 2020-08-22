@@ -2,7 +2,7 @@
 Compares voice fingerprints to be used in voice identification using google's gMusic.
 
 # Installation
-Pull the project and compile it using Maven. You can change the directory of the initial music/voice fingerprint in the codes and add the initial voice manually in the files. Then, run the project and test out the Voice Identification % by recording a new fingerprint.
+Pull the project and compile it using Maven. You can change the directory (E:\Identification) of the initial music/voice fingerprint in the codes and add the initial voice manually in the files. Then, run the project and test out the Voice Identification % by recording a new fingerprint.
 
 # Screenshots
 
